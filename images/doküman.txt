@@ -1,0 +1,259 @@
+Menü Butonları İşlevsellik Planı:
+
+1. Profil Ekranı:
+- Kullanıcı bilgileri gösterimi
+  * Kullanıcı adı
+  * E-posta
+  * Toplam oyun sayısı
+  * En yüksek skor
+  * Toplam oynama süresi
+  * Başarım rozetleri
+- Profil düzenleme seçenekleri
+  * Şifre değiştirme
+  * E-posta güncelleme
+
+2. En Yüksek Skorlar Ekranı:
+- Top 10 oyuncu listesi
+  * Sıralama
+  * Kullanıcı adı
+  * Skor
+  * Tarih
+- Kategoriler
+  * Günlük en iyiler
+  * Haftalık en iyiler
+  * Tüm zamanların en iyileri
+
+3. Ayarlar Menüsü:
+- Ses ayarları
+  * Ana ses seviyesi
+  * Müzik sesi
+  * Efekt sesi
+- Görsel ayarlar
+  * Tema seçimi (Klasik, Neon, Retro)
+  * Raket rengi
+  * Top rengi
+- Kontrol ayarları
+  * Tuş atamaları
+  * Hassasiyet ayarı
+
+4. Zorluk Seviyeleri:
+- Kolay Mod:
+  * Normal top hızı
+  * Geniş raket
+  * Bonus puanlar
+- Orta Mod:
+  * Artan top hızı
+  * Normal raket boyutu
+  * Normal puanlama
+- Zor Mod:
+  * Yüksek top hızı
+  * Dar raket
+  * Ekstra engeller
+  * Çoklu top
+
+Yeni Özellikler ve İyileştirmeler:
+
+1. En Yüksek Skorlar Tablosu İyileştirmeleri:
+- Animasyonlu skor kartları
+- Oyuncu avatarları
+- Skor detayları (zorluk seviyesi, tarih, süre)
+- Filtreleme seçenekleri
+- Arkadaş listesi ve arkadaş skorları
+- Başarım rozetleri gösterimi
+
+2. Ayarlar Menüsü Genişletme:
+- Özelleştirilebilir kontroller
+- Grafik efektleri ayarları
+- Ekran boyutu ayarları
+- Dil seçenekleri
+- Bulut kaydetme
+- Oyun istatistikleri
+
+3. Gelişmiş Oyun Mekanikleri:
+- Güç-up sistemi:
+  * Çoklu top
+  * Büyük/küçük raket
+  * Yavaş/hızlı mod
+  * Kalkan
+  * Puan çarpanı
+- Engel sistemi:
+  * Hareketli engeller
+  * Kırılabilir bloklar
+  * Portal sistemi
+- Çok oyunculu mod:
+  * Yerel çok oyunculu
+  * Sıralı oyun modu
+  * Turnuva modu
+
+4. Başarım Sistemi:
+- Günlük görevler
+- Haftalık zorluklar
+- Sezon pass sistemi
+- Özel rozetler
+- Seviye sistemi
+
+Uygulama Sırası:
+1. Profil ekranı implementasyonu
+2. En yüksek skorlar tablosu
+3. Ayarlar menüsü
+4. Zorluk seviyeleri özelleştirmesi
+5. Skor tablosu ve başarım sistemi
+6. Ayarlar menüsü genişletme
+7. Güç-up sistemi
+8. Engel sistemi
+9. Çok oyunculu mod
+
+Breakout Oyunu Dönüşüm Planı:
+
+1. Oyun Mekanikleri:
+- Platform özellikleri:
+  * Smooth hareket
+  * Hız kontrolü
+  * Boyut değişimi power-up'ları
+  * Yapışkan platform power-up'ı
+- Top özellikleri:
+  * Fizik tabanlı hareket
+  * Açı hesaplamaları
+  * Hız artışı
+  * Çoklu top power-up'ı
+- Blok sistemi:
+  * Farklı renklerde bloklar
+  * Farklı dayanıklılıkta bloklar
+  * Özel bloklar (power-up içeren)
+  * Animasyonlu yok olma efekti
+
+2. Puan Sistemi:
+- Blok türlerine göre puanlar:
+  * Normal blok: 10 puan
+  * Sert blok: 20 puan
+  * Özel blok: 30 puan
+- Combo sistemi:
+  * Ardışık blok kırma bonusu
+  * Zaman bazlı bonus
+  * Perfect clear bonus
+
+3. Power-up Sistemi:
+- Platform güçlendirmeleri:
+  * Genişleme
+  * Yapışkanlık
+  * Hız artışı
+- Top güçlendirmeleri:
+  * Çoklu top
+  * Büyük top
+  * Güçlü top (blokları tek vuruşta kırma)
+- Özel güçlendirmeler:
+  * Lazer atışı
+  * Kalkan
+  * Yavaş hareket
+
+4. Level Sistemi:
+- Seviye tasarımları:
+  * Her seviye için özel blok dizilimleri
+  * Artan zorluk
+  * Özel seviye hedefleri
+- Zorluk artışı:
+  * Top hızı artışı
+  * Daha dayanıklı bloklar
+  * Karmaşık blok dizilimleri
+  * Özel engeller
+
+5. Görsel ve Ses Efektleri:
+- Görsel efektler:
+  * Blok kırılma animasyonları
+  * Power-up parlamaları
+  * Combo efektleri
+  * Puan gösterimi
+- Ses efektleri:
+  * Blok kırılma sesleri
+  * Power-up toplama
+  * Combo sesleri
+  * Müzik sistemi
+
+6. Başarım Sistemi:
+- Özel başarımlar:
+  * Perfect clear
+  * Yüksek combo
+  * Hızlı bitirme
+  * Power-up kullanımı
+- Günlük görevler:
+  * Belirli sayıda blok kırma
+  * Power-up toplama
+  * Puan hedefleri
+
+Uygulama Sırası:
+1. Temel oyun mekaniklerinin değiştirilmesi
+2. Blok sisteminin eklenmesi
+3. Power-up sisteminin entegrasyonu
+4. Level sisteminin oluşturulması
+5. Görsel ve ses efektlerinin eklenmesi
+6. Başarım sisteminin entegrasyonu
+
+Tasarım ve Fizik İyileştirmeleri Planı:
+
+1. Seviye Tasarımları:
+- Taş Seviyesi (Level 1):
+  * Arka plan: taşlı_kısım.png
+  * Platform: alt_platform_taş.png
+  * Bloklar: tek_vuruş_taş.png, iki_vuruş_taş.png
+  * Ses efekti: taş_blok_kırılma.mp3
+  * Yapışkan platform: tasyapisgan.png
+
+- Çöl Seviyesi (Level 2):
+  * Arka plan: çöl_kısmı.png
+  * Platform: alt_platform_çöl.png
+  * Bloklar: tek_vuruş_çöl.png, iki_vuruş_çöl.png
+  * Ses efekti: cam_kırılma.mp3
+  * Yapışkan platform: colyapisgan.png
+
+- Buz Seviyesi (Level 3):
+  * Arka plan: Buzlu_kısım_background.png
+  * Platform: alt_platform_buz.png
+  * Bloklar: tek_vuruş_buz.png, iki_vuruşta_buz.png
+  * Ses efekti: buzsesi.mp3
+  * Boss: son_bölüm_yeni.png
+  * Yapışkan platform: buzyapisgan.png
+
+2. Joker Sistemi İyileştirmeleri:
+- Görsel Güncellemeler:
+  * Büyük Raket: buyuk.png
+  * Küçük Top: kucuktop.png
+  * Çoklu Top: cogalantop.png
+  * Lazer: lazer.png
+  * Yapışkan: yapısgan.png
+  * Kalkan: kalkan.png
+
+- Ses Efektleri:
+  * Çoklu Top: çoktu_top.mp3
+  * Yapışkan: yapışma sesi.mp3
+  * Büyük Raket: raket_büyüme.mp3
+  * Lazer: lazer_atışı.mp3
+  * Küçük Top: küçük_top.mp3
+  * Kalkan: kalkan.mp3
+
+3. Fizik İyileştirmeleri:
+- Top Fiziği:
+  * Rastgele başlangıç açısı (30° ile 150° arası)
+  * Hız vektörü hesaplaması güncelleme
+  * Platform çarpışma açısı iyileştirmesi
+  * Momentum ve enerji korunumu
+
+- Joker Fizikleri:
+  * Çoklu Top: 120° açılarla 3 top oluşturma
+  * Küçük Top: Boyut/hız oranı (0.7x boyut = 1.4x hız)
+  * Yapışkan Platform: Top yapışma noktası hesaplama
+  * Lazer: Blok kırma özelliği ekleme
+
+4. Kontrol İyileştirmeleri:
+- Klavye Kontrolleri:
+  * WASD tuşları aktivasyonu
+  * Ok tuşları ile eşzamanlı çalışma
+  * Hassasiyet ayarı
+  * Tuş kombinasyonları
+
+5. Uygulama Sırası:
+1. Seviye tasarımları entegrasyonu
+2. Top fiziği güncellemesi
+3. Joker sistemi iyileştirmeleri
+4. Kontrol sistemi düzeltmeleri
+5. Ses sistemi entegrasyonu
+6. Test ve optimizasyon
